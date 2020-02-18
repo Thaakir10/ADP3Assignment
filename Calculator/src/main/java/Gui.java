@@ -32,7 +32,7 @@ public class Gui extends JFrame implements ActionListener {
     private JButton resetBtn = new JButton("RESET");
 
     public Gui() {
-        super("Menu Demo");
+        super("Calculator");
 
         setLayout(new BorderLayout());
 
